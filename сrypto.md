@@ -5,6 +5,8 @@
 
 Yu, H. F., Rao, N., & Dhillon, I. S. (2016). Temporal regularized matrix factorization for high-dimensional time series prediction. In Advances in neural information processing systems (pp. 847-855).
 
+https://wiki.school.yandex.ru/shad/groups/2016/Semester4/BigData2/.files/yuraodhillon-2016-temporalregularizedmatrixfactorizationforhigh-dimensionaltimeseriesprediction.pdf?download=1
+
 Ссылка на данные скоро будет.
 Типичные параметры таких данных open_price, close_price, day_high, day_low, volume.
 
