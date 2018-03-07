@@ -24,3 +24,13 @@
 
 4) Мы почитаем ваш репозиторий и поставим вам оценку. Оцениваться будет качество результата, удобство и простота использования, скорость, а так же качество кода.
 
+**Bonus**
+Попробуйте ускорить обучение с помощью Hogwild! (см. 3-ю лекцию) или 
+
+Recht, B., Re, C., Wright, S., & Niu, F. (2011). Hogwild: A lock-free approach to parallelizing stochastic gradient descent. In Advances in neural information processing systems (pp. 693-701).
+
+Такая техника используется в программе libFFM (модификация факторизационных машин)
+
+Juan, Y., Zhuang, Y., Chin, W. S., & Lin, C. J. (2016, September). Field-aware factorization machines for CTR prediction. In Proceedings of the 10th ACM Conference on Recommender Systems (pp. 43-50). ACM.
+
+Интересно попробовать другие способы ускорения стохастического градиента, например SVRG. (см 2-ю лекцию).
